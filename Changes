@@ -1,0 +1,11 @@
+Revision history for Perl extension ttool.
+
+0.5   Thu May  6 17:26:00 1999
+	- First release with limitations in string length (32K),
+	  maximum number of words (10K), etc.
+	- ttcut ttcutwbr ttcut2list ttsetcode ttfixorder
+	  are provided
+
+0.01  Thu May  6 15:14:56 1999
+	- original version; created by h2xs 1.18
+
